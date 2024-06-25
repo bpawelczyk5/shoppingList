@@ -1,0 +1,170 @@
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.exe
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.deps.json
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.runtimeconfig.json
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.dll
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.pdb
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\Wpf.Ui.dll
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.csproj.AssemblyReference.cache
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\createList.g.cs
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\App.g.cs
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList_MarkupCompile.cache
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList_MarkupCompile.lref
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\createList.baml
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.g.resources
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.AssemblyInfoInputs.cache
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.AssemblyInfo.cs
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.csproj.CoreCompileInputs.cache
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shopping.B25E836A.Up2Date
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.dll
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\refint\shoppingList.dll
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.pdb
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.genruntimeconfig.cache
+C:\Users\CzyK\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\ref\shoppingList.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.exe
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.deps.json
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.runtimeconfig.json
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.pdb
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\Wpf.Ui.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.csproj.AssemblyReference.cache
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\createList.g.cs
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\App.g.cs
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList_MarkupCompile.cache
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList_MarkupCompile.lref
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\createList.baml
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.g.resources
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.AssemblyInfoInputs.cache
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.AssemblyInfo.cs
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.csproj.CopyComplete
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\refint\shoppingList.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.pdb
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.genruntimeconfig.cache
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\ref\shoppingList.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\Google.Protobuf.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\MySql.Data.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\ZstdSharp.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\addProduct.g.cs
+C:\Users\Dawid\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\addProduct.baml
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.exe
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.deps.json
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.runtimeconfig.json
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.pdb
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\Google.Protobuf.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\MySql.Data.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\System.Drawing.Common.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\Wpf.Ui.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\ZstdSharp.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.csproj.AssemblyReference.cache
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\addProduct.g.cs
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\createList.g.cs
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\App.g.cs
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList_MarkupCompile.cache
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList_MarkupCompile.lref
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\addProduct.baml
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\createList.baml
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.g.resources
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.AssemblyInfoInputs.cache
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.AssemblyInfo.cs
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.csproj.CoreCompileInputs.cache
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shopping.B25E836A.Up2Date
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\refint\shoppingList.dll
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.pdb
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.genruntimeconfig.cache
+C:\Users\ViGO\Desktop\shoppingList\shoppingList\obj\Release\net8.0-windows\ref\shoppingList.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.exe
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.deps.json
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.runtimeconfig.json
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\shoppingList.pdb
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\Google.Protobuf.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\MySql.Data.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\Wpf.Ui.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\ZstdSharp.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\bin\Release\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.csproj.AssemblyReference.cache
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\addProduct.g.cs
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\createList.g.cs
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\App.g.cs
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList_MarkupCompile.cache
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList_MarkupCompile.lref
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\addProduct.baml
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\createList.baml
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.g.resources
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.AssemblyInfoInputs.cache
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.AssemblyInfo.cs
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.csproj.CopyComplete
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\refint\shoppingList.dll
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.pdb
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\shoppingList.genruntimeconfig.cache
+C:\Users\Dawid\Desktop\Nowy folder (5)\shoppingList\shoppingList\obj\Release\net8.0-windows\ref\shoppingList.dll

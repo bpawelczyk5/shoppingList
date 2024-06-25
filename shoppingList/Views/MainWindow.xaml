@@ -1,0 +1,137 @@
+﻿<Window
+    x:Class="shoppingList.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:shoppingList"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+    Title="MainWindow"
+    Width="800"
+    Height="500"
+    mc:Ignorable="d"
+    WindowStyle="None"
+    AllowsTransparency="True"
+    Background="Transparent">
+
+    <Grid MouseDown="Grid_MouseDown">
+        <Border
+            Background="White"
+            BorderThickness="1"
+            CornerRadius="25">
+
+            <Grid>
+                <ui:Button Content="X" FontSize="13" BorderBrush="Transparent" HorizontalAlignment="Right" VerticalAlignment="Top" Click="CloseButton_Click" Background="Transparent" RenderTransformOrigin="0.318,0.691" Margin="0,8,10,0" Width="19"/>
+
+                <ui:Button
+                    Width="102"
+                    Height="36"
+                    Margin="688,44,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Background="#FFF48D43"
+                    BorderThickness="0,0,0,0"
+                    Content="Utwórz"
+                    CornerRadius="10,10,10,10"
+                    Foreground="White" Click="Button_Click"
+                    Name="createButton"/>
+
+                <ui:Button
+                    Width="102"
+                    Height="35"
+                    Margin="688,10,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Background="#FFF48D43"
+                    BorderThickness="0,0,0,0"
+                    Content="Dodaj"
+                    CornerRadius="10,10,10,10"
+                    Foreground="White" Click="AddButton_Click"
+                    Visibility="Hidden" Name="AddButton"/>
+                <ui:Button
+                    Width="102"
+                    Height="35"
+                    Margin="578,10,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Background="#FFF48D43"
+                    BorderThickness="0,0,0,0"
+                    Content="Usuń"
+                    CornerRadius="10,10,10,10"
+                    Foreground="White" Click="DeleteButton_Click"
+                    Visibility="Hidden" Name="DeleteButton"/>
+                <ui:ImageIcon
+                    Width="67"
+                    Height="68"
+                    Margin="35,20,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Source="/Resources/cart.png" />
+                <ui:ImageIcon
+                    Width="66"
+                    Height="68"
+                    Margin="30,390,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Source="/Resources/configuration.png" />
+                <Label
+                    Width="245"
+                    Height="69"
+                    Margin="135,28,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Content="Lista zakupów:" FontSize="36" Foreground="#FFF48D43" />
+
+                <ListBox
+                    Name="ShoppingListBox"
+                    BorderBrush="Transparent"
+                    Margin="135,100,20,20"
+                    FontSize="16"
+                    Foreground="#333333"
+                    Visibility="Visible"
+                    MouseDoubleClick="ShoppingListBox_MouseDoubleClick">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel>
+                                <TextBlock Text="{Binding Name}" FontWeight="Bold"/>
+                                <TextBlock Text="{Binding CreationTime}" FontStyle="Italic"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+
+                <ListBox
+                    Name="ProductListBox"
+                    BorderBrush="Transparent"
+                    Margin="135,100,20,20"
+                    FontSize="16"
+                    Foreground="#333333"
+                    Visibility="Hidden">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <CheckBox IsChecked="{Binding Status, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                    Checked="CheckBox_Checked"
+                                    Unchecked="CheckBox_Unchecked" />
+                                <TextBlock Text="{Binding ProductName}" Margin="5,0,0,0" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+
+                <ui:Button
+                    Width="102"
+                    Height="35"
+                    Margin="688,50,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Background="#FFF48D43"
+                    BorderThickness="0,0,0,0"
+                    Content="Cofnij"
+                    CornerRadius="10,10,10,10"
+                    Foreground="White" Click="BackButton_Click"
+                    Visibility="Hidden" Name="BackButton"/>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
